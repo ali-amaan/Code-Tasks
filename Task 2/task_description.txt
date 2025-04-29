@@ -1,0 +1,14 @@
+Task 2:
+  Task name: Data Visualization
+
+  Goal:
+    Visualize the given dataset (https://www.kaggle.com/datasets/shree1992/housedata) 
+
+  Requirements:
+    Load the dataset
+    Perform basic data cleaning (if needed) and explore the dataset (using .describe(), .info(), etc.).
+    Create the following visualizations:
+      A scatter plot of features (yr_built,floors) vs price and explain which one impacts the price more.
+      A box plot for a single feature to identify outliers.
+      A heatmap to visualize the correlation between features.
+      A line graph to show a trend.
