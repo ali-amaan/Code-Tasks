@@ -1,0 +1,30 @@
+Task 1:
+  Task name: Create a Bank Account System
+
+  Requirements:
+    Design a class BankAccount that represents a bank account with basic functionalities. Your BankAccount class should have the following features:
+    Attributes:
+    account_number: A unique identifier for the account (integer).
+    account_holder_name: Name of the account holder (string).
+    balance: The current balance in the account (float).
+
+    Methods:
+    deposit(amount): Add a specified amount to the balance.
+    withdraw(amount): Subtract a specified amount from the balance (if sufficient funds are available).
+    get_balance(): Return the current balance of the account.
+    get_account_info(): Return a string summarizing the account details (account number, account holder name, and balance).
+    
+    Additional Requirements:
+      Ensure that the withdraw method only allows withdrawal if the balance is sufficient.
+      Provide a constructor to initialize the account number, account holder name, and initial balance.
+
+    Example:
+      Account Holder: John Doe
+      Account Number: 123456
+      Balance: 1000.50
+      
+      After Deposit: 200.00
+      New Balance: 1200.50
+      
+      After Withdrawal: 500.00
+      New Balance: 700.50
