@@ -1,6 +1,6 @@
-# Chatbot Project (Next.js)
+# Coding Tasks & Chatbot Project (Next.js)
 
-Welcome to the Chatbot made using Next.js! This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Welcome to the Chatbot made using Next.js! This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and is in the root directory. The folders Task 1 and Task 2 contain their respective codes in python.
 
 ## 🚀 Getting Started
 
